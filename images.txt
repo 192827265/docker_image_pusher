@@ -11,3 +11,4 @@ apache/rocketmq:4.9.3
 rabbitmq:3.8.2-management
 seataio/seata-server:1.7.1
 openjdk:17-jdk
+minio/minio
